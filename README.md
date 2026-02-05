@@ -1,2 +1,2 @@
 # 2400100100208-S4-11-PYTHON
-HELLO!
+Python based AI learning.
